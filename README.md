@@ -1,1 +1,1 @@
-# Prediction-of-cardiovascular-disease-using-decision-tree
+# Prediction-of-cardiovascular-disease-by-decision-tree
